@@ -8,6 +8,7 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        string s = "";
+        string s;
+        string s1 = "sachin";
     }
 }
